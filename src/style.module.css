@@ -1,0 +1,90 @@
+/* Body */
+body {
+    margin: 0;
+    font-family:sans-serif;
+}
+
+/* Header */
+.header {
+    background-color: black;
+    height: 50px;
+    font-size: 2em;
+    color:whitesmoke;
+    padding: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Subtitle */
+.subtitle {
+    text-align: center;
+    font-weight: bold;
+    text-decoration-line:underline;
+}
+
+/* Form */
+.todoform {
+    width: 100%;
+    margin: auto;
+    margin-top: 40px;
+
+}
+
+/* Input Field */
+.todoinput {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid whitesmoke;
+    font-size: 1.5em;
+    text-align: center;
+    height: 70px;
+}
+
+/* Button Container */
+.container { 
+    height: 200px;
+    position: relative;
+    border: none;
+  }
+  
+
+  /* Button */
+.todobutton {
+    width: 20%;
+    margin-top: 20px;
+    height: 70px;
+    background-color:black;
+    font-size: 1.5em;
+    font-weight: bold;
+    color:whitesmoke;
+    border: 3px solid whitesmoke;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+/* Todo Item of todoList  */
+.todoitem {
+    margin: auto;
+    border: 2px solid whitesmoke;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+
+.todoname {
+
+}
+
+
+.deletebutton {
+border: none;
+border-radius: 5px;
+height: 50px;
+background-color: black;
+width: 100px;
+color: whitesmoke;
+}
