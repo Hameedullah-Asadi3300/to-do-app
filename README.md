@@ -28,7 +28,7 @@ Done Button:Each task has a functional button as well. You can delete any tasks 
 3: No bootstrap is used in.
 4: This is a function based component app, not class based component.
 
-Any comment to develope it further is welcomed in advance.\
+Any comment to develope it further is welcomed in advance.
 
 ## License
 MIT License
