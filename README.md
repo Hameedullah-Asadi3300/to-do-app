@@ -1,7 +1,7 @@
 # to-do-app
 This repo contains a to-do-app developed using JavaScript, React library.
 
-fork the repo, change the directory to the forked location using CLI or VS COde termainl. Run npm start
+fork the repo, change the directory to the forked location using CLI or VS Code termainl. Run npm start
 and the app will run on your local host using port 3000 the same as such: http://localhost:3001/
 
 You will see the home page as follows:
